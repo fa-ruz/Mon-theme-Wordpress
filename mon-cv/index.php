@@ -89,7 +89,7 @@
 
 
 <?php
-    $Centres_i = new WP_Query([
+    $XP = new WP_Query([
         'post_type' => 'XP',
     ]);
   ?>
